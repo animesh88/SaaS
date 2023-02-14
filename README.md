@@ -1,5 +1,5 @@
 # SaaS (Searching as a Service)
-Use NetBeans (enabled with Glassfish) to import and use the project.
+Use NetBeans (enabled with Glassfish) and required libraries to import and use the project.
 
 Please cite or refer following research papers that used the SaaS as one of the case study in the experimentation section.
 
